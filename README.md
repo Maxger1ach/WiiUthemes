@@ -1,3 +1,5 @@
+# I Will update this again when i feel like it, too addicted to zelda RN
+
 # WiiUthemes
 ## ! Warning ! 
 ## This is not a legal way to change the theme for the WiiU, I share these files with the idea that you have the knowledge of how to install these themes safely. I am not held responsible for any system bricks caused by these files.
