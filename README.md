@@ -7,7 +7,11 @@ This repo is just a collection of themes i have found online and want to share i
 
 ## How to install themes:
 Put the Men.pack and Men2.pack files of the theme in sd:/wiiu/themes/[theme name]
+
 Put theme_manager.rpx in sd:/wiiu/apps
+
 Run the homebrew
+
 Select the theme
+
 Profit!
