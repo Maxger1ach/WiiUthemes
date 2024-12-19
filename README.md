@@ -1,4 +1,4 @@
-# I Will update this again when i feel like it, too addicted to zelda rn
+# i Will update this again when i feel like it, too addicted to zelda rn
 
 # WiiUthemes
 ## ! Warning ! 
